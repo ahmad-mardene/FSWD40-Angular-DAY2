@@ -1,0 +1,43 @@
+[
+  {
+    "name":"Apple",
+    "vitamin":"D",
+    "category":"Fruit" 
+  },
+  {
+    "name":"Orange",
+    "vitamin":"C",
+    "category":"Fruit"  
+  },
+  {
+    "name":"Banana",
+    "vitamin":"D",
+    "category":"Fruit" 
+  },
+  {
+    "name":"Ananas",
+    "vitamin":"A",
+    "category":"Fruit"
+  },
+  {
+    "name":"Paorika",
+    "vitamin":"C",
+    "category":"Vegetable"
+  },
+  {
+    "name":"Zuchini",
+    "vitamin":"D",
+    "category":"Vegetable"
+  },
+  {
+    "name":"Milanzani",
+    "vitamin":"E",
+    "category":"Vegetable"
+  },
+  {
+    "name":"Tomatos",
+    "vitamin":"A",
+    "category":"Vegetable"
+  }
+  
+]
